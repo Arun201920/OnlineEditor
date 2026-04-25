@@ -1,0 +1,5 @@
+package com.example.compiler.entity;
+
+public class Submission {
+
+}
